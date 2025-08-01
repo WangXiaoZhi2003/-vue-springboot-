@@ -1,0 +1,7 @@
+node_modules/
+.idea/
+server/target/
+*.iml
+.DS_Store
+front/email/dist/
+front/email/node_modules/
